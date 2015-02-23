@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/images/STAP_masthead_1200.png" width="600" align="center" hspace="10" vspace="0" border="0" /><br />
-# Softalk Apple Edition, Top 30 list Dataset
-
+# Softalk Magazine, Apple Edition: Top 30 List Dataset
 Original source: Peter Caylor's Excel spreadsheet <br />
 Original author: Peter Caylor <br />
 Version 2 with CSV and screenshots, etc: Jim Salmons <br />
