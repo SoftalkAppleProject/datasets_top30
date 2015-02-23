@@ -21,7 +21,7 @@ We are in the process of writing a script to generate 47 individual CSV files; o
 
 <img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/images/LoRes_Peter_Caylor_handsoff_Softalk_megascans_to_Jim_Salmons.jpg" width="420" align="left" hspace="10" border="1" />Peter "Lo-res" Caylor is a founding, mega-helpful volunteer on the grassroots **Softalk Apple Project** from its very beginning. He selflessly donated his personal scan of most of the issues of Softalk, then worked diligently with us to secure and scan the remaining issues. While this initial "Caylor Foundation scans" are non-archival quality for the most part -- being quick photocopies of some pretty beat issues, etc. -- Peter's contribution did allow the STAP project to get a quick start on our own and postdoc research collaborators' activities. 
 
-In the photo here, Peter hands off his initial scans to STAP project co-founder, Jim Salmons, at an informal ceremony at Bertha's in Baltimore following the STAP's attendance and project demo at the *Museums and the Web 2014* conference.
+In the photo here, Peter on the left hands off his initial scans to STAP project co-founder, Jim Salmons, at an informal ceremony at Bertha's in Baltimore following Jim's attendance and FactMiners/STAP project demo at the *Museums and the Web 2014* conference.
 
 Needing a subject to exercise his growing skills and interest in Decision Support Systems, Peter had the great idea to OCR and transcribe the Softalk Apple Top 30 lists as a dataset as part of a professional development course he is taking. His clever "homework" assignment was to create an Excel spreadsheet-based forecasting model to predict the Top 30 list for the unpublished "49th issue" of Softalk that would have appeared for September 1984.
 
@@ -29,9 +29,11 @@ Needing a subject to exercise his growing skills and interest in Decision Suppor
 
 ## What's Ahead -- The FactMiners/STAP Data Digger Challenge!
 
-As soon as we have the rules worked out and complete the "starting point" dataset files, FactMiners and The Softalk Apple Project will launch an on-going data-mining contest to stimulate interest in what can be done with a FacttMiners Fact Cloud beyond the typical simple human-reading of scanned copies of the magazine.
+As soon as we have the rules worked out and complete the "starting point" dataset files, **FactMiners.org** and **The Softalk Apple Project** will launch an on-going data-mining contest to stimulate interest in doing the kind of exploratory analysis and insight discovery that will be possible with the full FactMiners' Fact Cloud of the complete run of Softalk magazine. 
 
-In the meantime, friends of FactMiners and The Softalk Apple Project are welcome to puruse these files and to begin to think about the kinds of questions and insights that could be gleaned from clever analyses of this dataset... and then imagine what we'll have to work with when we have a full metamodel-based, structural and content model of all the information (the elementary "facts") that will eventually be added to the FactMiners Fact Cloud of Softalk magazine.
+In the meantime, friends of FactMiners and The Softalk Apple Project are welcome to peruse these files and begin to think about the kinds of questions and insights that could be gleaned from clever analyses of this dataset. As Challenge entries accumulate, it will become increasingly easy to imagine the full potential of creating a metamodel-based, structural and content model of all the information (the elementary "facts") of the full run of Softalk magazine captured in a FactMiners Fact Cloud.
+
+More soon... :-)
 
 On behalf of The Softalk Apple Project and FactMiners,<br />
 -: Jim Salmons :-<br />
