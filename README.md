@@ -1,10 +1,13 @@
 <img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/images/STAP_masthead_1200.png" width="600" align="center" hspace="10" vspace="0" border="0" /><br />
 # Softalk Magazine: Top 30 List Dataset
+
+<img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/images/what_softalk_means_to_us.png" width="260" align="right" hspace="10" vspace="0" border="0" /><br />
 Original source: Peter Caylor's Excel spreadsheet <br />
 Original author: Peter Caylor <br />
 Version 2 with CSV and screenshots, etc: Jim Salmons <br />
 Project: The Softalk Apple Project <br />
-URL: www.SoftalkApple.com <br />
+URL: www.SoftalkApple.com
+
 <img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/Screenshots/v1n03_Nov80_top30.jpg" width="220" align="right" hspace="10" border="1" />
 The Softalk Apple edition, Top 30 list as dataset with validating screenshots. An Excel spreadsheet is provided together with a set of exported CSV files. For data validation and basic curiosity, screenshots are provided. The first issue, September 1980, did not have a Top 30 list, so there are 47 lists of between 30 and 32 listed items per month. Ties on the computed index for position 30 would occassionally result in 31 or 32 items on the list.
 
