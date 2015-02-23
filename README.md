@@ -5,7 +5,7 @@ Original author: Peter Caylor <br \>
 Version 2 with CSV and screenshots, etc: Jim Salmons <br \>
 Project: The Softalk Apple Project <br \>
 URL: www.SoftalkApple.com <br \>
-<img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/Screenshots/v1n03_Nov80_top30.jpg" width="220" align="center" hspace="10" border="1" />
+<img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/Screenshots/v1n03_Nov80_top30.jpg" width="220" align="right" hspace="10" border="1" />
 The Softalk Apple edition, Top 30 list as dataset with validating screenshots. An Excel spreadsheet is provided together with a set of exported CSV files. For data validation and basic curiosity, screenshots are provided. The first issue, September 1980, did not have a Top 30 list, so there are 47 lists of between 30 and 32 listed items per month. Ties on the computed index for position 30 would occassionally result in 31 or 32 items on the list.
 
 The primary spreadsheet worksheet and its associated CSV export, , contain two columns per month with the first listing the index computed for that title for that month -- index values are NOT comparable across months, only used for ordinal positioning within a given month's list -- followed by a column which contains the ordinal position (1-30) for that month.
