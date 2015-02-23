@@ -29,7 +29,7 @@ Needing a subject to exercise his growing skills and interest in Decision Suppor
 
 ## What's Ahead -- The FactMiners/STAP Data Digger Challenge!
 
-As soon as we have the rules worked out and complete the "starting point" dataset files, **FactMiners.org** and **The Softalk Apple Project** will launch an on-going data-mining contest to stimulate interest in doing the kind of exploratory analysis and insight discovery that will be possible with the full FactMiners' Fact Cloud of the complete run of Softalk magazine. 
+As soon as we have the rules worked out and complete the "starting point" dataset files, **FactMiners.org** and **The Softalk Apple Project** will launch an on-going STAP **Data Digger Challenge** to stimulate interest in doing the kind of exploratory analysis and insight discovery that will be possible with the full FactMiners' Fact Cloud of the complete run of Softalk magazine.
 
 In the meantime, friends of FactMiners and The Softalk Apple Project are welcome to peruse these files and begin to think about the kinds of questions and insights that could be gleaned from clever analyses of this dataset. As Challenge entries accumulate, it will become increasingly easy to imagine the full potential of creating a metamodel-based, structural and content model of all the information (the elementary "facts") of the full run of Softalk magazine captured in a FactMiners Fact Cloud.
 
@@ -39,3 +39,4 @@ On behalf of The Softalk Apple Project and FactMiners,<br />
 -: Jim Salmons :-<br />
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Softalk Top 30 Dataset</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.SoftalkApple.com" property="cc:attributionName" rel="cc:attributionURL">The Softalk Apple Project</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.SoftalkApple.com" rel="dct:source">http://www.SoftalkApple.com</a>.
+
