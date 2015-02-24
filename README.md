@@ -24,20 +24,20 @@ We are in the process of writing a script to generate 47 individual CSV files; o
 In the photo, Peter -- on the left -- hands off his initial scans to STAP project co-founder, Jim Salmons, during an informal celebration at Bertha's Pub in Fells Point, Baltimore. The ceremonial transfer of the USB hard-drive was the culmination of Jim's attendance at the *Museums and the Web 2014* conference where he had an opportunity to demo our project's sofware platform work-in-process and discuss the research agenda of both The Softalk Apple Project and our associated applied research project, FactMiners.org.
 
 ## Peter's 49th Issue Prognostication!
-
+<img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/Screenshots/Peters_issue49_forecast_top30.png" width="600" align="right" hspace="10" border="1" />
 Needing a subject to exercise his growing skills and interest in Decision Support Systems, Peter had the great idea to OCR and transcribe the Softalk Apple Top 30 lists as a dataset as part of a professional development course he is taking. His clever "homework" assignment was to create an Excel spreadsheet-based forecasting model to predict the Top 30 list for the unpublished "49th issue" of Softalk that would have appeared for September 1984.
 
 Here's a screenshot of Peter's creative homework assignment in which he imagines what he would editorially write to introduce the publication of the Top 30 list in what would have been the 49th issue, September 1984, of Softalk magazine. For the complete story, visit www.SoftalkApple.com.
 
-**For his great work that continues to help move our grassroots project forward, Peter Caylor is the FIRST winner of a Softalk/FactMiners Data Digger achievement! He will be receiving the inaugural custom Softalk/FactMiners Data Digger mug which will become the standard design for the soon-to-be-announced Softalk/FactMiners Data Digger Challenge... as soon as we design it, that is, and have it made! Actually, we're getting pretty good at the mug-making stuff, having done it to everyone's satisfaction on the Volunteeer of the Year and Researcher of the Year award mugs we announced recently. :-)**
+**For his great work that continues to help move our grassroots project forward, Peter Caylor is the FIRST winner of a Softalk/FactMiners Data Digger achievement!** Peter will be receiving the inaugural custom Softalk/FactMiners Data Digger mug which will become the standard design for the soon-to-be-announced Softalk/FactMiners Data Digger Challenge... as soon as we design it, that is, and have it made! Actually, we're getting pretty good at the mug-making stuff, having done it to everyone's satisfaction on the Volunteeer of the Year and Researcher of the Year awards we announced recently. :-)
 
-## Ahead? The Softalk/FactMiners Data Digger Challenge!
+## Ahead, the Softalk/FactMiners Data Digger Challenge!
 
 As soon as we have the rules worked out and complete the "starting point" dataset files, **The Softalk Apple Project** and **FactMiners.org** will launch an on-going **Softalk/FactMiners Data Digger Challenge** to stimulate interest in folks having some "serious fun" doing exploratory analysis and insight discovery on this fascinating dataset.
 
 In the meantime, friends of FactMiners and The Softalk Apple Project are welcome to peruse these files and begin to think about the kinds of questions that could be asked and insights gleaned from clever analyses of this dataset. As Challenge entries accumulate, it will become increasingly easy to imagine the full potential of creating a metamodel-based, structural and content model of all the information (the elementary "facts") of the full run of Softalk magazine captured in a FactMiners' Fact Cloud.
 
-More soon... :-)
+More as it develops... :-)
 
 On behalf of **The Softalk Apple Project** and **FactMiners**,<br />
 -: Jim Salmons :-<br />
