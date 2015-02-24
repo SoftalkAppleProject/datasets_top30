@@ -24,7 +24,7 @@ We are in the process of writing a script to generate 47 individual CSV files; o
 In the photo, Peter -- on the left -- hands off his initial scans to STAP project co-founder, Jim Salmons, during an informal celebration at Bertha's Pub in Fells Point, Baltimore. The ceremonial transfer of the USB hard-drive was the culmination of Jim's attendance at the *Museums and the Web 2014* conference where he had an opportunity to demo our project's sofware platform work-in-process and discuss the research agenda of both The Softalk Apple Project and our associated applied research project, FactMiners.org.
 
 ## Peter's 49th Issue Prognostication!
-<img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/Screenshots/Peters_issue49_forecast_top30.png" width="600" align="right" hspace="10" border="1" />
+<img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/images/Peters_issue49_forecast_top30.png" width="440" align="right" hspace="10" border="1" />
 Needing a subject to exercise his growing skills and interest in Decision Support Systems, Peter had the great idea to OCR and transcribe the Softalk Apple Top 30 lists as a dataset as part of a professional development course he is taking. His clever "homework" assignment was to create an Excel spreadsheet-based forecasting model to predict the Top 30 list for the unpublished "49th issue" of Softalk that would have appeared for September 1984.
 
 Here's a screenshot of Peter's creative homework assignment in which he imagines what he would editorially write to introduce the publication of the Top 30 list in what would have been the 49th issue, September 1984, of Softalk magazine. For the complete story, visit www.SoftalkApple.com.
