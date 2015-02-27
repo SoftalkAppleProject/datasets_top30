@@ -9,7 +9,9 @@ Project: **The Softalk Apple Project** <br />
 URL: **www.SoftalkApple.com**
 
 <img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/Screenshots/v1n03_Nov80_top30.jpg" width="220" align="left" hspace="10" border="1" />
-This repository contains the Softalk magazine (Apple edition) Top 30 List as a dataset with validating screenshots and other helpful files and information to encourage and support Citizen Science/History data exploration. An Excel spreadsheet is provided together with a set of exported CSV files. For data validation and to satisfy folks' basic curiosity, screenshots of the Top 30 lists, as they appeared in the magazine, are provided. The first issue, September 1980, did not have a Top 30 list, so there are 47 lists of between 30 and 32 listed items per month. Ties on the computed index for position 30 would occasionally result in 31 or 32 items on the list.
+This repository contains the Softalk magazine (Apple edition) Top 30 List as a dataset with validating screenshots and other helpful files and information to encourage and support Citizen Science/History data exploration. 
+
+An Excel spreadsheet is provided together with a set of exported CSV files. For data validation and to satisfy folks' basic curiosity, screenshots of the Top 30 lists, as they appeared in the magazine, are provided. The first issue, September 1980, did not have a Top 30 list, so there are 47 lists of between 30 and 32 listed items per month. Ties on the computed index for position 30 would occasionally result in 31 or 32 items on the list.
 
 The primary Excel spreadsheet -- and its associated CSV export of the primary data worksheet -- contain two columns per month for the 47 months of record. For each pair of columns per month, the first contains the index computed for that title for that month and the second column contains the ordinal position assigned for that index value for that month. NOTE: Index values are NOT comparable across months. This value is only used for ordinal positioning within a given month's list.
 
@@ -35,7 +37,7 @@ Here's a screenshot of Peter's creative homework assignment in which he imagines
 
 As soon as we have the rules worked out -- they will be pretty obvious having to do with adding data-driven insights into what we can "read into" this dataset -- we'll officially launch an on-going **Softalk/FactMiners Data Digger Challenge**. Our goal is to stimulate interest in folks having some "serious fun" doing exploratory analysis and insight discovery on this fascinating dataset.
 
-In the meantime, you are welcome to peruse these files and begin to think about the kinds of questions that could be asked and insights gleaned from clever analyses of this dataset. As Challenge entries accumulate, it will become increasingly easy to imagine the full potential of creating a metamodel-based, structural and content model of all the information (the elementary "facts") of the full run of Softalk magazine captured in a FactMiners' Fact Cloud as envisioned in our *Where Facts Live* presentation at #MCN2014, the annual conference of the Museum Computer Network.
+In the meantime, you are welcome to peruse these files and begin to think about the kinds of questions that could be asked and insights gleaned from clever analyses of this dataset. As Challenge entries accumulate, it will become increasingly easy to imagine the full potential of creating a metamodel-based, structural and content model of all the information (the elementary "facts") of the full run of Softalk magazine captured in a FactMiners' Fact Cloud as envisioned in our [*Where Facts Live*](http://goo.gl/gS2FJk) presentation at #MCN2014, the annual conference of the Museum Computer Network.
 
 More as it develops... :-)
 
@@ -43,4 +45,3 @@ On behalf of **The Softalk Apple Project** and **FactMiners**,<br />
 -: Jim Salmons :-<br />
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Softalk Top 30 Dataset</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.SoftalkApple.com" property="cc:attributionName" rel="cc:attributionURL">The Softalk Apple Project</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.SoftalkApple.com" rel="dct:source">http://www.SoftalkApple.com</a>.
-
