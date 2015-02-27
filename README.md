@@ -15,7 +15,7 @@ The primary Excel spreadsheet -- and its associated CSV export of the primary da
 
 Index ties result in ties for a given ordinal position, and thereby result in more than one item with the same position in a given month, as well as ordinal numbers being missing on a list with tied items.
 
-We are in the process of writing a script to generate 47 individual CSV files; one for each month of the award consisting of columns with the program name, its computed monthly index, and the ordinal position of that index within the list.
+A Python script is provided to parse the primary CSV file and generate a subdirectory of 47 month-by-month CSV data files for each of the Softalk Top 30 lists. Each file includes three fields; product name, ordinal position in the list, and computed indes.
 
 ## A Big Thank You to Project Volunteer Peter Caylor
 
@@ -25,17 +25,17 @@ In the photo, Peter -- on the left -- hands off his initial scans to STAP projec
 
 ## Peter's 49th Issue Prognostication!
 <img src="https://raw.githubusercontent.com/SoftalkAppleProject/datasets_top30/master/images/Peters_issue49_forecast_top30.png" width="440" align="right" hspace="10" border="1" />
-Needing a subject to exercise his growing skills and interest in Decision Support Systems, Peter had the great idea to OCR and transcribe the Softalk Apple Top 30 lists as a dataset as part of a professional development course he is taking. His clever "homework" assignment was to create an Excel spreadsheet-based forecasting model to predict the Top 30 list for the unpublished "49th issue" of Softalk that would have appeared for September 1984.
+Needing a subject to exercise his growing skills and interest in Decision Support Systems, Peter had the great idea to OCR and transcribe the Softalk Apple Top 30 lists as a dataset to be part of a professional development course he is taking. His clever "homework" assignment was to create an Excel spreadsheet-based forecasting model to predict the Top 30 list for the unpublished "49th issue" of Softalk that would have appeared for September 1984.
 
-Here's a screenshot of Peter's creative homework assignment in which he imagines what he would editorially write to introduce the publication of the Top 30 list in what would have been the 49th issue, September 1984, of Softalk magazine. For the complete story, visit www.SoftalkApple.com.
+Here's a screenshot of Peter's creative homework assignment in which he imagines what he would editorially write to introduce the publication of the imagine "unpublished" Top 30 list in what would have been Softalk's 49th issue, September 1984.
 
-**For his great work that continues to help move our grassroots project forward, Peter Caylor is the FIRST winner of a Softalk/FactMiners Data Digger achievement!** Peter will be receiving the inaugural custom Softalk/FactMiners Data Digger mug which will become the standard design for the soon-to-be-announced Softalk/FactMiners Data Digger Challenge... as soon as we design it, that is, and have it made! Actually, we're getting pretty good at the mug-making stuff, having done it to everyone's satisfaction on the Volunteeer of the Year and Researcher of the Year awards we announced recently. :-)
+**For his great work that continues to help move our grassroots project forward, Peter Caylor is the FIRST winner of a Softalk/FactMiners Data Digger achievement!** Peter will be receiving the inaugural custom Softalk/FactMiners Data Digger mug which will become the standard design for the soon-to-be-announced Softalk/FactMiners Data Digger Challenge. As soon as we design this next Achievment mug and have a run of them made! Actually, we're getting pretty good at the mug-making stuff, having done it to everyone's satisfaction on the Volunteeer of the Year and Researcher of the Year awards we announced recently. :-)
 
 ## Ahead, the Softalk/FactMiners Data Digger Challenge!
 
-As soon as we have the rules worked out and complete the "starting point" dataset files, **The Softalk Apple Project** and **FactMiners.org** will launch an on-going **Softalk/FactMiners Data Digger Challenge** to stimulate interest in folks having some "serious fun" doing exploratory analysis and insight discovery on this fascinating dataset.
+As soon as we have the rules worked out and complete the "starting point" dataset files, **The Softalk Apple Project** and **FactMiners.org** will launch an on-going **Softalk/FactMiners Data Digger Challenge**. Our goal is to stimulate interest in folks having some "serious fun" doing exploratory analysis and insight discovery on this fascinating dataset.
 
-In the meantime, friends of FactMiners and The Softalk Apple Project are welcome to peruse these files and begin to think about the kinds of questions that could be asked and insights gleaned from clever analyses of this dataset. As Challenge entries accumulate, it will become increasingly easy to imagine the full potential of creating a metamodel-based, structural and content model of all the information (the elementary "facts") of the full run of Softalk magazine captured in a FactMiners' Fact Cloud.
+In the meantime, you are welcome to peruse these files and begin to think about the kinds of questions that could be asked and insights gleaned from clever analyses of this dataset. As Challenge entries accumulate, it will become increasingly easy to imagine the full potential of creating a metamodel-based, structural and content model of all the information (the elementary "facts") of the full run of Softalk magazine captured in a FactMiners' Fact Cloud.
 
 More as it develops... :-)
 
